@@ -1,0 +1,11 @@
+body {
+  font-family: 'Yu Gothic';
+  background-color: red
+}
+
+div {
+  width: 800px;
+  margin: 30 auto;
+  background-color: white;
+  
+}
